@@ -40,7 +40,7 @@
      <access origin="http://*.sina.com.cn/*"/>
      <access origin="https://api.weibo.com/*"/>
      <preference name="WEIBO_APP_ID" value="$WEIBO_APP_ID"/>
-     <preference name="REDIRECTURI" value="$REDIRECTURI"/>
+     <preference name="REDIRECTURI" value="http://www.dorasdream.com/"/>
    </config-file>
    <!--set ios URLTypes for Weibo -->
    <config-file target="*-Info.plist" parent="CFBundleURLTypes">
